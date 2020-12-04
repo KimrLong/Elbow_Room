@@ -1,0 +1,62 @@
+- header
+   - md larger 
+   -sm image
+    -title- layer 
+    -opacity - layer
+    -video- layer
+
+
+
+
+-navigation 
+    -bs navigation
+
+
+
+
+
+
+main content-
+
+pics- 
+/* beer pic */
+
+https://static.shakeys.com/resources/images/menu-pages/beverages-and-desserts/beverages.jpg
+-fancy pizza
+https://bellavialic.com/wp-content/uploads/2019/06/Ezzys-Photography-16-of-35.jpg
+/*Wings
+https://www.bluemoonpizza.com/wp-content/uploads/2019/12/BMP-Menu-Wings-Imagery-Strip-1024x146.jpg
+
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/10388083_865281226846290_4103765262425075515_n.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_ohc=VnupEuPh7LkAX9gK58U&_nc_ht=scontent-atl3-1.xx&oh=b5354d634e2354437018986492edcb26&oe=5FEBA057
+
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/1604579_680291242011957_1994100446_n.jpg?_nc_cat=111&ccb=2&_nc_sid=8bfeb9&_nc_ohc=818s9XXb3EYAX8HuFqQ&_nc_ht=scontent-atl3-1.xx&oh=18b0f3b62e9e9283633daa64fc8f0c13&oe=5FEBFC26
+
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/10178064_758814774159603_2501109011173968625_n.jpg?_nc_cat=110&ccb=2&_nc_sid=ba80b0&_nc_ohc=TxhpuU2Q3TIAX-prA0R&_nc_ht=scontent-atl3-1.xx&oh=3e939db24d5c29dcd6e67538aabd7eca&oe=5FEEDC4D
+
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/407232_301660526541699_854935092_n.jpg?_nc_cat=100&ccb=2&_nc_sid=174925&_nc_ohc=b7QMaccBRtYAX-CX4KA&_nc_ht=scontent-atl3-1.xx&oh=dd2e19d0af9cff080ee664b228c8e3fd&oe=5FECAB53
+martini- 
+https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/27982816_10156263730233104_1693971064748329329_o.jpg?_nc_cat=102&ccb=2&_nc_sid=8bfeb9&_nc_ohc=d7z3GSnJc4QAX_Ubn3z&_nc_ht=scontent-atl3-1.xx&oh=88c52bd2cf0d02742d6841e344f4c6a7&oe=5FEDF3FE
+puuled pork- 
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/64782550_10156484403136984_8228602601160048640_o.jpg?_nc_cat=108&ccb=2&_nc_sid=825194&_nc_ohc=ueT-YjLOew8AX-Avvxb&_nc_ht=scontent-atl3-1.xx&oh=5092a5987754ef7073e9ef53d9039007&oe=5FEC81B1
+
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/14263_471172806257136_1156557271_n.jpg?_nc_cat=101&ccb=2&_nc_sid=9267fe&_nc_ohc=T7pNMoxMFe4AX-0Ar17&_nc_ht=scontent-atl3-1.xx&oh=0b1f856d0d6d4c09888f2d8f88d89aab&oe=5FEC8809
+ gathering -
+https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/903049_533655320008884_1289120118_o.jpg?_nc_cat=104&ccb=2&_nc_sid=cdbe9c&_nc_ohc=wQCcyuXxtJUAX_PxDAp&_nc_ht=scontent-atl3-1.xx&oh=82aa67335dc7510efdf1e3acd53ec5e2&oe=5FEF3049
+https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/904777_533655506675532_1439393954_o.jpg?_nc_cat=108&ccb=2&_nc_sid=cdbe9c&_nc_ohc=HR_FlEhIO3wAX92_bZN&_nc_ht=scontent-atl3-1.xx&oh=7556c74ece58fc75b32c1ea5762ed5fd&oe=5FEE8B23
+new- indoor- 
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/97144852_4395705090470535_4762398138830946304_n.jpg?_nc_cat=111&ccb=2&_nc_sid=8bfeb9&_nc_ohc=BdQ9GpAyQO8AX9aD4FY&_nc_ht=scontent-atl3-1.xx&oh=fc6ddab6b986fe5a220c960e8f6badf8&oe=5FEC0C0D
+
+front- christmas-
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/128407780_10109827996388525_5393865357689867515_o.jpg?_nc_cat=109&ccb=2&_nc_sid=e3f864&_nc_ohc=MN_1gjLGhGIAX9_1Oif&_nc_ht=scontent-atl3-1.xx&oh=29b4008d9016cb06e744e2416ed6e553&oe=5FEE138E
+background stock photos-
+https://image.shutterstock.com/image-photo/girl-hands-keep-rolling-pin-260nw-723271465.jpg
+https://image.shutterstock.com/image-photo/hot-big-pepperoni-pizza-tasty-260nw-751979947.jpg
+ beer taps- 
+ https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/478272_472288496145567_508243713_o.jpg?_nc_cat=110&ccb=2&_nc_sid=d2e176&_nc_ohc=luc6zydjfrMAX9lvzav&_nc_ht=scontent-atl3-1.xx&oh=1dc995b6c57aba63cb2e938457d3b1d2&oe=5FEDF2C0
+
+under-construction
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/30709091_10155734262087779_4272711235033628672_n.jpg?_nc_cat=106&ccb=2&_nc_sid=ad2b24&_nc_ohc=YAjeYeOu6Y4AX_4f-86&_nc_ht=scontent-atl3-1.xx&oh=e30ab99cf8b5c6aa107d3a268cc6d64b&oe=5FED953B
+
+golden-tee - 
+https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-0/p526x296/89271147_4135463976494649_3109649123662364672_o.jpg?_nc_cat=104&ccb=2&_nc_sid=9267fe&_nc_ohc=YyC6sL2M-18AX-jxexg&_nc_ht=scontent-atl3-1.xx&tp=6&oh=40aeed2f4ccb4e13ba568b98ae37e07a&oe=5FEDD56F
+-footer
